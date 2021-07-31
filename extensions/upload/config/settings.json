@@ -1,0 +1,9 @@
+{
+    "provider":"cloudinary",
+    "providerOptions":{
+        "cloud_name":"abdelmo3ty",
+        "api_key":"815715517753635",
+        "api_secret":"2WDmXl32mjtLBhHXpUvatS5yr24"
+        
+    }
+}
