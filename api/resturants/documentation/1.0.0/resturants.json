@@ -854,6 +854,12 @@
               }
             }
           },
+          "lat": {
+            "type": "string"
+          },
+          "log": {
+            "type": "string"
+          },
           "published_at": {
             "type": "string",
             "format": "date-time"
@@ -891,6 +897,12 @@
             "items": {
               "type": "string"
             }
+          },
+          "lat": {
+            "type": "string"
+          },
+          "log": {
+            "type": "string"
           },
           "published_at": {
             "type": "string",

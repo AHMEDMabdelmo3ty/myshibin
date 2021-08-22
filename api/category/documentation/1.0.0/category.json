@@ -650,6 +650,12 @@
                     "type": "string"
                   }
                 },
+                "lat": {
+                  "type": "string"
+                },
+                "log": {
+                  "type": "string"
+                },
                 "published_at": {
                   "type": "string"
                 },

@@ -79,6 +79,12 @@
     "categories": {
       "via": "resturants",
       "collection": "category"
+    },
+    "lat": {
+      "type": "string"
+    },
+    "log": {
+      "type": "string"
     }
   }
 }
