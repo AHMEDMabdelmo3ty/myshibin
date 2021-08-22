@@ -2,7 +2,8 @@
   "kind": "collectionType",
   "collectionName": "resturants",
   "info": {
-    "name": "Resturants"
+    "name": "Resturants",
+    "description": ""
   },
   "options": {
     "increments": true,
@@ -74,6 +75,10 @@
       "plugin": "upload",
       "required": false,
       "pluginOptions": {}
+    },
+    "categories": {
+      "via": "resturants",
+      "collection": "category"
     }
   }
 }
